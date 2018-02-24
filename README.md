@@ -1,6 +1,9 @@
-# ReduxSimpleStarter
+# WeatherList
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This is a small web App developed in React-Redux, which get weather in cities on Canada.
+This project is based on StephenGrider udemy Course, and its boilerplate can be downloaded following the instruction bellow.
+
+The following instructions were made by Stephen Grider in your initial setup.
 
 ### Getting Started
 
