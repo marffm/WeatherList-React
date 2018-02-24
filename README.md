@@ -1,7 +1,6 @@
 # WeatherList
 
-This is a small web App developed in React-Redux, which get weather in cities on Canada.
-This project is based on StephenGrider udemy Course, and its boilerplate can be downloaded following the instruction bellow.
+This is a small web App developed in React-Redux, which gets the weather of cities on Canada. This project is based on Stephen Grider udemy Course, and its boilerplate can be downloaded following the instruction bellow.
 
 The following instructions were made by Stephen Grider in your initial setup.
 
